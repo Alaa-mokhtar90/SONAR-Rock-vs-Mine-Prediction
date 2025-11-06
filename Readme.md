@@ -14,6 +14,7 @@ Predict whether an object is a **Rock** or a **Mine** using Machine Learning.
 
 ---
 💡**Model**
+
 logistic regression Algorithm
 
 ## ⚙️ How to Ru
