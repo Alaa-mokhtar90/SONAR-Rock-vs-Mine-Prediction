@@ -13,8 +13,10 @@ Predict whether an object is a **Rock** or a **Mine** using Machine Learning.
 - Contains 60 features representing sonar signals.
 
 ---
+##💡** Model**
+logistic regression Algorithm
 
-## ⚙️ How to Run
+## ⚙️ How to Ru
 
 1. Install the required libraries:
 ```bash
@@ -24,13 +26,13 @@ Open the notebook:
 sonar_prediction.ipynb
 
 
-2-Run the notebook step by step to see predictions.
+2- Run the notebook step by step to see predictions.
 
 📝 Features
 
 60 sonar signal features.
 
-3-Label: R = Rock, M = Mine.
+3- Label: R = Rock, M = Mine.
 
 👩‍💻 Author
 
