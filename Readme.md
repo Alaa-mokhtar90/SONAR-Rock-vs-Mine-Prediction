@@ -13,9 +13,7 @@ Predict whether an object is a **Rock** or a **Mine** using Machine Learning.
 - Contains 60 features representing sonar signals.
 
 ---
-💡**Model**
 
-logistic regression Algorithm
 
 ## ⚙️ How to Ru
 
@@ -34,6 +32,10 @@ sonar_prediction.ipynb
 60 sonar signal features.
 
 3- Label: R = Rock, M = Mine.
+
+💡**Model**
+
+logistic regression Algorithm
 
 👩‍💻 Author
 
