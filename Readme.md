@@ -33,7 +33,7 @@ sonar_prediction.ipynb
 
 3- Label: R = Rock, M = Mine.
 
-💡**Model**
+💡Model
 
 logistic regression Algorithm
 
