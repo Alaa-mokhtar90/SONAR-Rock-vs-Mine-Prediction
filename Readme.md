@@ -15,7 +15,7 @@ Predict whether an object is a **Rock** or a **Mine** using Machine Learning.
 ---
 
 
-## ⚙️ How to Ru
+## ⚙️ How to Run
 
 1. Install the required libraries:
 ```bash
